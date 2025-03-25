@@ -119,4 +119,4 @@ If you have suggestions for overcoming the API limitations or want to contribute
 
 ---
 
-Made with ❤️ by [Pegasus] 
+Made with ❤️ by [Your Name] 
