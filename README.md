@@ -97,7 +97,6 @@ The project is open-sourced with the hope that the community can help find solut
 Contributions are welcome! We're particularly interested in:
 - Finding free alternatives to paid AI APIs
 - Implementing local AI solutions
-- Creating a community-driven story database
 - Improving the current UI/UX
 - Adding new features that don't require paid APIs
 
@@ -119,4 +118,4 @@ If you have suggestions for overcoming the API limitations or want to contribute
 
 ---
 
-Made with ❤️ by [Your Name] 
+Made with ❤️ by [Pegasus] 
